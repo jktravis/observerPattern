@@ -1,0 +1,4 @@
+exports.Obervable = function Observable() {
+
+};
+
